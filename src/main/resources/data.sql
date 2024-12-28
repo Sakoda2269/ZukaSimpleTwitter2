@@ -1,0 +1,2 @@
+--email: a@gmail.com, name: takotyann, password: hello, role: ROLE_USERのアカウントを最初に登録しておく。パスワードはエンコードされています。
+INSERT INTO accounts VALUES ('a@gmail.com', 'takotyann', '$2a$10$XtNS28LKBDn.8gew0iC7kutWXNF3I/w8HC4071ceJ/ot1oTsDobiW','ROLE_USER');
